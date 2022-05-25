@@ -1,8 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import Card from './Card.js';
+import { robots } from './robots';
 import 'tachyons';
+
+
 
 ReactDOM.render(
     <div>
